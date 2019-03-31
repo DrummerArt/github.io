@@ -38,8 +38,9 @@ h2 {
   margin-bottom: 8px;
   }
 h3 {
-  font-size: 100px;
+  font-size: 20px;
   margin-bottom: 0px;
+  color: red;
 }
 
 #header {
